@@ -1,2 +1,2 @@
 # test
-pull rq
+pull rqd
